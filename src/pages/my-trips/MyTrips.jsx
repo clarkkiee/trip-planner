@@ -26,7 +26,7 @@ const trips = [
     description:
       "A relaxing trip to Bali's best beaches, local markets, and famous temples. Ideal for groups of friends seeking sun and culture.",
     image:
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80", // beach
+      "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=600&q=80", // beach
   },
 ];
 
