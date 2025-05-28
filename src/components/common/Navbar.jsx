@@ -49,7 +49,7 @@ export const Navbar = () => {
   return (
     <div className="p-3 shadow-sm flex justify-between items-center px-5">
       <Link to={"/"}>
-        <img src="/mainlogo-old.png" className="w-28 md:w-40" alt="EasyTrip logo" />
+        <img src="/mainlogo.png" className="w-28 md:w-40" alt="EasyTrip logo" />
       </Link>
       <div>
         {user ? (
